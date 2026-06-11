@@ -31,7 +31,8 @@
       </a>
     </td>
     <td width="40%" align="center">
-       <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="90%" alt="Coding Animation" />
+       <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4ea172ac-b31f-49b5-a0a9-8b74c8286b48" />
+    </td>
     </td>
   </tr>
 </table>
